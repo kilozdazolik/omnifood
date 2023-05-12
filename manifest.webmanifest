@@ -1,0 +1,10 @@
+{
+    "icons": [
+        {"src": "img/favicong-192.png", 
+        "type": "image/png", 
+        "sizes": "192x192"},
+        {"src": "img/favicong-512.png", 
+        "type": "image/png", 
+        "sizes": "512s512"}
+    ]
+}
